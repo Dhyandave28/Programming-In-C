@@ -12,7 +12,7 @@ int main(){
     }
 
     for(int i=0;i<x;i++){
-        printf("%d ",printing(i));
+        printf("%d\n",printing(i));
     }
 
 }
@@ -28,3 +28,4 @@ int printing(int x){
    
 
 }
+
